@@ -10,4 +10,4 @@ The objective is to implement on complete solution to build a website, including
 
 ## try for yourself
 
-If you want to test this project, simply clone it, and run ``npm run dev-backend``
+If you want to test this project, simply clone it, and run  ``npm install`` to install all dependencies, and then ``npm run dev-backend`` to start the server.
