@@ -1,7 +1,6 @@
 /**
  * SETUP SERVER
  */
-
 // import needed libraries
 const express = require('express')
 const cors = require('cors')
